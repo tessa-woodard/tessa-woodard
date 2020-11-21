@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![Tessa's github stats](https://github-readme-stats.vercel.app/api?username=tessa-woodard&show_icons=true&hide_border=true&theme=dark)
 
-<a href="https://tessawoodard.me/" target="_blank"><img src="https://github.com/tessa-woodard/tessa-woodard/blob/master/www.png" alt="Website" width="30"></a>
-<a href="www.linkedin.com/in/tessa-woodard" target="_blank"><img src="https://github.com/tessa-woodard/tessa-woodard/blob/master/in.png" alt="LinkedIn" width="30"></a>
-<a href="https://github.com/tessa-woodard" target="_blank"><img src="https://github.com/tessa-woodard/tessa-woodard/blob/master/git.png" alt="GitHub" width="30"></a>
+<a href="https://tessawoodard.me/" target="_blank"><img src="https://github.com/tessa-woodard/tessa-woodard/blob/master/portfolio.png" alt="Website" width="30"></a>
+<a href="www.linkedin.com/in/tessa-woodard" target="_blank"><img src="https://github.com/tessa-woodard/tessa-woodard/blob/master/linkedin.png" alt="LinkedIn" width="30"></a>
+<a href="https://github.com/tessa-woodard" target="_blank"><img src="https://github.com/tessa-woodard/tessa-woodard/blob/master/github.png" alt="GitHub" width="30"></a>
 
