@@ -2,7 +2,8 @@
 
 <br />
 
-I am a Full-Stack Web Developer and have passion for the tech industry! I graduated from DevMountain's Immersive Full Stack Web Development program with honors.
+I am a Full-Stack Web Developer and have passion for the tech industry! 
+I graduated from DevMountain's Immersive Full Stack Web Development program with honors.
 
 <br />
 
