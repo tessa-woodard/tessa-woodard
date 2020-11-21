@@ -6,6 +6,8 @@ I am a Full-Stack Web Developer and have passion for the tech industry! I gradua
 
 <br />
 
+My most recent project that I have completed is a Coffee Shop Website called Impresso Espresso. Check it out here! --> <a href="https://impresso-expresso.netlify.app/" target="_blank"><img src="https://github.com/tessa-woodard/tessa-woodard/blob/main/coffee.png" alt="Website" width="30"></a>
+
 Feel free to connect with me on LinkedIn or check out my Portfolio Website!
 
 <a href="https://tessawoodard.me/" target="_blank"><img src="https://github.com/tessa-woodard/tessa-woodard/blob/main/portfolio.png?raw=true" alt="Website" width="30"></a>
