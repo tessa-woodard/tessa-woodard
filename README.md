@@ -1,8 +1,11 @@
 ### Hi, I'm Tessa! 👋🏼
 
+<br />
 
 I am a Full-Stack Web Developer and have passion for the tech industry!
+
 <br />
+
 I graduated from DevMountain's Immersive Full Stack Web Development program with honors.
 
 <br />
