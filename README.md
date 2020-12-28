@@ -4,7 +4,7 @@
 
 # Urban Roots
 
-This project was built to mimic an actual online plant website with features that include, customer reviews, plants for purchase, inspiration ideas, about the company and a contact form.
+Urban Roots was built to mimic an actual online plant website with features that include, plants for purchase, authentication, inspiration ideas, plant care tips, about the company, FAQ page, as well as a contact form.
 
 Check it out [here](https://urban-roots.netlify.app/)
 
