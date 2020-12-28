@@ -1,5 +1,3 @@
-<img src="https://github.com/tessa-woodard/tessa-woodard/blob/main/Computer%20Animation.htm" "home-animation" />
-
 ### Hi, I'm Tessa! 👋🏼
 
 <br />
