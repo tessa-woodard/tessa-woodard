@@ -1,4 +1,4 @@
-<img src="https://github.com/tessa-woodard/tessa-woodard/blob/main/cover.png?raw=true" />🏼
+<img src="https://github.com/tessa-woodard/tessa-woodard/blob/main/cover.png?raw=true" />
 
 <br />
 
