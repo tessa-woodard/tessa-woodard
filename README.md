@@ -1,4 +1,4 @@
-### Hi, I'm Tessa! 👋🏼
+<img src="https://github.com/tessa-woodard/tessa-woodard/blob/main/cover.png?raw=true" />🏼
 
 <br />
 
