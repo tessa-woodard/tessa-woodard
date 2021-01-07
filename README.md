@@ -1,6 +1,6 @@
 <img src="https://github.com/tessa-woodard/tessa-woodard/blob/main/cover-photo.png?raw=true" />
 
-<table align="center"><tr><td align="center" width="9999">
+
 
 # Urban Roots
 
