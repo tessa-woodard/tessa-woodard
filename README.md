@@ -14,7 +14,6 @@ Check it out [here](https://urban-roots.netlify.app/)
 
 <table align="center"><tr><td align="center" width="9999">
 
-# Impresso Espresso
 
 This project was build to mimic an actual coffee shop website with features that include, customer reviews, menu items, products for purchase, about the company and a contact form.
 
