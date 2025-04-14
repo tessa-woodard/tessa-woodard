@@ -1,25 +1,11 @@
-<img src="https://github.com/tessa-woodard/tessa-woodard/blob/main/cover-photo.png?raw=true" />
+check out my [portfolio](https://tessawoodard.netlify.app/) • connect with me on [linkedin](https://www.linkedin.com/in/tessa-woodard/)!
 
-<table align="center"><tr><td align="center" width="9999">
-  
-# Urban Roots
+### Hey, I’m Tessa! 👋
 
-Urban Roots was built to mimic an actual online plant website with features that include, plants for purchase, authentication, inspiration ideas, plant care tips, about the company, FAQ page, as well as a contact form.
+I’m a **UI/UX Front-End Developer** who’s all about creating fun, impactful designs that make people go, "**Hey, that’s awesome!**" After graduating from Devmountain in 2020, I’ve been diving into web development with a focus on **clean**, **user-friendly** interfaces.
 
-Check it out [here](https://urban-roots.netlify.app/)
+My journey has been pretty wild:  
+- From creating comfy (but questionable) footwear websites at **Crocs**  
+- To now working on sleek **car dealership sites** at **DealerOn** — talk about variety!
 
-<img src="https://github.com/tessa-woodard/tessa-woodard/blob/main/urban-roots.png?raw=true" align="center" width="750" alt="Project icon">
-
-</td></tr></table>
-
-<table align="center"><tr><td align="center" width="9999">
-
-# Impresso Espresso
-
-This project was build to mimic an actual coffee shop website with features that include, customer reviews, menu items, products for purchase, about the company and a contact form.
-
-Check it out [here](https://impresso-expresso.netlify.app/)
-
-<img src="https://github.com/tessa-woodard/tessa-woodard/blob/main/impresso-espresso.png?raw=true" align="center" width="750" alt="Project icon">
-
-</td></tr></table>
+I’m not limited to any one industry. Whether it’s shoes, cars, or something totally different, I’m always excited to build something **creative** and **impactful**. Wherever life takes me, I’m all in for designing things that **stand out**.
