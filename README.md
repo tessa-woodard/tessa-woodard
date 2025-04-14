@@ -1,4 +1,6 @@
-check out my [portfolio](https://tessawoodard.netlify.app/) • connect with me on [linkedin](https://www.linkedin.com/in/tessa-woodard/)!
+<p align="center">
+  check out my <a href="https://tessawoodard.netlify.app/">portfolio</a> • connect with me on <a href="https://www.linkedin.com/in/tessa-woodard/">linkedin</a>!
+</p>
 
 ### Hey, I’m Tessa! 👋
 
