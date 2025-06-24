@@ -2,7 +2,7 @@
   check out my <a href="https://tessawoodard.netlify.app/">portfolio</a> • connect with me on <a href="https://www.linkedin.com/in/tessa-woodard/">linkedin</a>!
 </p>
 
-
+### Hi, I’m Tessa! 👋
 
 I’m a **UI/UX Front-End Developer** who’s all about creating fun, impactful designs that make people go, "**Hey, that’s awesome!**" After graduating from Devmountain in 2020, I’ve been diving into web development with a focus on **clean**, **user-friendly** interfaces.
 
